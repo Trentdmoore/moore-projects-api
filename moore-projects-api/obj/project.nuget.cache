@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYvDM98KCVsdTVt2vPA43oV6KJgt816dydVtvznC2iYXqtjRgDrxLnzKOPyesC3Pgn8VRcEJuBjC1q1t0tgmQA==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\dev\\repos\\DevTesting\\moore-projects-api\\moore-projects-api\\moore-projects-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UncleTmoe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\UncleTmoe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\UncleTmoe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\UncleTmoe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\UncleTmoe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\UncleTmoe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
